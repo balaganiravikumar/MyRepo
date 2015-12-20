@@ -1,5 +1,6 @@
 package samplelog4j;
 //samplelog4j
+//2nd time added
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
