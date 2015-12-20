@@ -1,5 +1,5 @@
 package samplelog4j;
-
+//samplelog4j
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
